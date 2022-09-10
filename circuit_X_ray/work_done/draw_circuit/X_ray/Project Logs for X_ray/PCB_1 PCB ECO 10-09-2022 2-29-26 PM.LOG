@@ -1,0 +1,5 @@
+Removed Member From Class: ClassName=SCH Member=C24
+Change Component Designator: OldDesignator=C23 NewDesignator=encoder1
+Change Component Designator: OldDesignator=C24 NewDesignator=C23
+Added Member To Class: ClassName=SCH Member=Component encoder1 JP4x1-2.0
+Added Room: Name=SCH
