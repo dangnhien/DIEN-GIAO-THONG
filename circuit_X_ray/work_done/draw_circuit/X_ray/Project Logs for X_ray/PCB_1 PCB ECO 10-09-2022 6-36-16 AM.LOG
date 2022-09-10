@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=POWER_IN Pin=D2-1
+Removed Pin From Net: NetName=24V Pin=D2-2
+Removed Pin From Net: NetName=LED_1 Pin=LD1-2
+Removed Pin From Net: NetName=LED_2 Pin=LD2-2
+Removed Pin From Net: NetName=LED_3 Pin=LD3-2
+Removed Member From Class: ClassName=SCH Member=LD1
+Removed Member From Class: ClassName=SCH Member=LD2
+Removed Member From Class: ClassName=SCH Member=LD3
+Added Component: Designator=D2(SOD-123)
+Added Component: Designator=D6(SOD-123)
+Added Component: Designator=LED2(LED_SMD_0805)
+Added Component: Designator=LED7(LED_SMD_0805)
+Added Component: Designator=LED8(LED_SMD_0805)
+Added Component: Designator=LED9(LED_SMD_0805)
+Added Pin To Net: NetName=POWER_IN Pin=D2-1
+Added Pin To Net: NetName=24V Pin=D2-2
+Added Pin To Net: NetName=GND Pin=D6-1
+Added Pin To Net: NetName=NetD6_2 Pin=D6-2
+Added Pin To Net: NetName=NetLED2_1 Pin=LED2-1
+Added Pin To Net: NetName=GND Pin=LED2-2
+Added Pin To Net: NetName=LED_1 Pin=LED7-2
+Added Pin To Net: NetName=LED_2 Pin=LED8-2
+Added Pin To Net: NetName=LED_3 Pin=LED9-2
+Added Pin To Net: NetName=NetLED7_1 Pin=LED7-1
+Added Pin To Net: NetName=NetLED7_1 Pin=R48-2
+Added Net: Name=NetLED7_1
+Added Pin To Net: NetName=NetLED8_1 Pin=LED8-1
+Added Pin To Net: NetName=NetLED8_1 Pin=R50-2
+Added Net: Name=NetLED8_1
+Added Pin To Net: NetName=NetLED9_1 Pin=LED9-1
+Added Pin To Net: NetName=NetLED9_1 Pin=R53-2
+Added Net: Name=NetLED9_1
+Added Member To Class: ClassName=SCH Member=Component C7 Cap_SMD
+Added Member To Class: ClassName=SCH Member=Component C11 Cap_SMD
+Added Member To Class: ClassName=SCH Member=Component D6 1N4148
+Added Member To Class: ClassName=SCH Member=Component LED2 LED_SMD
+Added Member To Class: ClassName=SCH Member=Component LED7 LED_SMD
+Added Member To Class: ClassName=SCH Member=Component LED8 LED_SMD
+Added Member To Class: ClassName=SCH Member=Component LED9 LED_SMD

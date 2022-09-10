@@ -1,0 +1,323 @@
+Removed Pin From Net: NetName=LED_7_1 Pin=C1-1
+Removed Pin From Net: NetName=LED_7_2 Pin=C1-2
+Removed Pin From Net: NetName=LED_7_3 Pin=C1-3
+Removed Pin From Net: NetName=LED_7_4 Pin=C1-4
+Removed Pin From Net: NetName=LED_7_5 Pin=C1-5
+Removed Pin From Net: NetName=LED_7_6 Pin=C1-6
+Removed Pin From Net: NetName=LED_7_7 Pin=C1-7
+Removed Pin From Net: NetName=LED_7_8 Pin=C1-8
+Removed Pin From Net: NetName=+5_BUT Pin=C1-9
+Removed Pin From Net: NetName=GND Pin=C1-10
+Removed Pin From Net: NetName=BUT_IN_6 Pin=C1-11
+Removed Pin From Net: NetName=BUT_IN_5 Pin=C1-12
+Removed Pin From Net: NetName=BUT_IN_4 Pin=C1-13
+Removed Pin From Net: NetName=BUT_IN_3 Pin=C1-14
+Removed Pin From Net: NetName=BUT_IN_2 Pin=C1-15
+Removed Pin From Net: NetName=BUT_IN_1 Pin=C1-16
+Removed Pin From Net: NetName=OUT_LED_4 Pin=C1-17
+Removed Pin From Net: NetName=OUT_LED_3 Pin=C1-18
+Removed Pin From Net: NetName=OUT_LED_2 Pin=C1-19
+Removed Pin From Net: NetName=OUT_LED_1 Pin=C1-20
+Removed Pin From Net: NetName=VDDA Pin=C4-1
+Removed Pin From Net: NetName=GND Pin=C4-2
+Removed Pin From Net: NetName=BUT_UP Pin=C4-3
+Removed Pin From Net: NetName=BUT_DOWN Pin=C4-4
+Removed Pin From Net: NetName=BUT_SET_1 Pin=C4-5
+Removed Pin From Net: NetName=BUT_SET_2 Pin=C4-6
+Removed Pin From Net: NetName=BUT_TURN_ON Pin=C4-7
+Removed Pin From Net: NetName=BUT_TURN_OFF Pin=C4-8
+Removed Pin From Net: NetName=GND Pin=C8-1
+Removed Pin From Net: NetName=BUT_UP Pin=C8-2
+Removed Pin From Net: NetName=GND Pin=C9-1
+Removed Pin From Net: NetName=BUT_SET_2 Pin=C9-2
+Removed Pin From Net: NetName=ANALOG_1 Pin=C11-2
+Removed Pin From Net: NetName=GND Pin=C12-1
+Removed Pin From Net: NetName=BUT_DOWN Pin=C12-2
+Removed Pin From Net: NetName=GND Pin=C13-1
+Removed Pin From Net: NetName=BUT_TURN_ON Pin=C13-2
+Removed Pin From Net: NetName=ANALOG_1 Pin=C15-2
+Removed Pin From Net: NetName=GND Pin=C16-1
+Removed Pin From Net: NetName=BUT_SET_1 Pin=C16-2
+Removed Pin From Net: NetName=GND Pin=C17-1
+Removed Pin From Net: NetName=BUT_TURN_OFF Pin=C17-2
+Removed Pin From Net: NetName=ANALOG_1 Pin=C18-2
+Removed Pin From Net: NetName=ANALOG_1 Pin=C20-2
+Removed Pin From Net: NetName=ANALOG_1 Pin=C21-2
+Removed Pin From Net: NetName=NetBJT6_3 Pin=LS2-N
+Removed Pin From Net: NetName=VDDA Pin=LS2-P
+Removed Pin From Net: NetName=ANA_IN_1 Pin=R18-1
+Removed Pin From Net: NetName=ANALOG_1 Pin=R18-2
+Removed Pin From Net: NetName=ANALOG_1 Pin=R22-1
+Removed Pin From Net: NetName=ANA_IN_1 Pin=R27-1
+Removed Pin From Net: NetName=ANALOG_1 Pin=R27-2
+Removed Pin From Net: NetName=ANALOG_1 Pin=R28-1
+Removed Pin From Net: NetName=ANA_IN_1 Pin=R29-1
+Removed Pin From Net: NetName=ANALOG_1 Pin=R29-2
+Removed Pin From Net: NetName=ANALOG_1 Pin=R33-1
+Removed Pin From Net: NetName=ANA_IN_1 Pin=R38-1
+Removed Pin From Net: NetName=ANALOG_1 Pin=R38-2
+Removed Pin From Net: NetName=ANALOG_1 Pin=R39-1
+Removed Pin From Net: NetName=OUT_5 Pin=R40-1
+Removed Pin From Net: NetName=ANA_IN_1 Pin=R44-1
+Removed Pin From Net: NetName=ANALOG_1 Pin=R44-2
+Removed Pin From Net: NetName=ANALOG_1 Pin=R45-1
+Removed Pin From Net: NetName=OUT_5 Pin=R46-1
+Removed Pin From Net: NetName=OUT_5 Pin=R50-1
+Removed Pin From Net: NetName=OUT_5 Pin=R52-1
+Removed Pin From Net: NetName=OUT_5 Pin=R54-1
+Removed Pin From Net: NetName=OUT_5 Pin=U5-4
+Removed Pin From Net: NetName=OUT_5 Pin=U6-4
+Removed Pin From Net: NetName=LED_SDA Pin=U7-23
+Removed Pin From Net: NetName=LED_SCK Pin=U7-24
+Removed Pin From Net: NetName=LED_LATCH Pin=U7-25
+Removed Pin From Net: NetName=LED_SEG_1 Pin=U7-27
+Removed Pin From Net: NetName=LED_SEG_2 Pin=U7-28
+Removed Pin From Net: NetName=LED_SEG_3 Pin=U7-29
+Removed Pin From Net: NetName=LED_SEG_4 Pin=U7-30
+Removed Pin From Net: NetName=LED_1 Pin=U7-31
+Removed Pin From Net: NetName=LED_2 Pin=U7-32
+Removed Pin From Net: NetName=LED_3 Pin=U7-33
+Removed Pin From Net: NetName=OUT_ROLE_1 Pin=U7-39
+Removed Pin From Net: NetName=OUT_ROLE_2 Pin=U7-40
+Removed Pin From Net: NetName=OUT_ROLE_3 Pin=U7-41
+Removed Pin From Net: NetName=OUT_ROLE_5 Pin=U7-43
+Removed Pin From Net: NetName=BUZZER Pin=U7-45
+Removed Pin From Net: NetName=BUT_UP Pin=U7-51
+Removed Pin From Net: NetName=BUT_DOWN Pin=U7-52
+Removed Pin From Net: NetName=BUT_SET_1 Pin=U7-53
+Removed Pin From Net: NetName=BUT_SET_2 Pin=U7-54
+Removed Pin From Net: NetName=BUT_TURN_ON Pin=U7-55
+Removed Pin From Net: NetName=BUT_TURN_OFF Pin=U7-58
+Removed Pin From Net: NetName=OUT_5 Pin=U8-4
+Removed Pin From Net: NetName=OUT_5 Pin=U10-4
+Removed Pin From Net: NetName=OUT_5 Pin=U11-4
+Removed Member From Class: ClassName=SCH Member=C26
+Removed Member From Class: ClassName=SCH Member=C27
+Removed Member From Class: ClassName=SCH Member=LS2
+Change Component Designator: OldDesignator=C2 NewDesignator=C23
+Change Component Designator: OldDesignator=C3 NewDesignator=C1
+Change Component Designator: OldDesignator=C5 NewDesignator=C2
+Change Component Designator: OldDesignator=C7 NewDesignator=C4
+Change Component Designator: OldDesignator=C11 NewDesignator=C5
+Change Component Designator: OldDesignator=C15 NewDesignator=C6
+Change Component Designator: OldDesignator=C18 NewDesignator=C12
+Change Component Designator: OldDesignator=C20 NewDesignator=C14
+Change Component Designator: OldDesignator=C21 NewDesignator=C15
+Change Component Designator: OldDesignator=C22 NewDesignator=C7
+Change Component Designator: OldDesignator=C26 NewDesignator=C11
+Change Component Designator: OldDesignator=C27 NewDesignator=C13
+Change Component Designator: OldDesignator=H3 NewDesignator=H4
+Change Component Designator: OldDesignator=H4 NewDesignator=H5
+Change Component Designator: OldDesignator=H5 NewDesignator=H6
+Change Component Designator: OldDesignator=R3 NewDesignator=R57
+Change Component Designator: OldDesignator=R4 NewDesignator=R58
+Change Component Designator: OldDesignator=R6 NewDesignator=R4
+Change Component Designator: OldDesignator=R8 NewDesignator=R6
+Change Component Designator: OldDesignator=R9 NewDesignator=R7
+Change Component Designator: OldDesignator=R11 NewDesignator=R41
+Change Component Designator: OldDesignator=R12 NewDesignator=R9
+Change Component Designator: OldDesignator=R13 NewDesignator=R43
+Change Component Designator: OldDesignator=R14 NewDesignator=R10
+Change Component Designator: OldDesignator=R15 NewDesignator=R11
+Change Component Designator: OldDesignator=R16 NewDesignator=R12
+Change Component Designator: OldDesignator=R17 NewDesignator=R13
+Change Component Designator: OldDesignator=R18 NewDesignator=R14
+Change Component Designator: OldDesignator=R19 NewDesignator=R15
+Change Component Designator: OldDesignator=R20 NewDesignator=R16
+Change Component Designator: OldDesignator=R22 NewDesignator=R18
+Change Component Designator: OldDesignator=R23 NewDesignator=R19
+Change Component Designator: OldDesignator=R25 NewDesignator=R46
+Change Component Designator: OldDesignator=R26 NewDesignator=R47
+Change Component Designator: OldDesignator=R27 NewDesignator=R21
+Change Component Designator: OldDesignator=R28 NewDesignator=R22
+Change Component Designator: OldDesignator=R29 NewDesignator=R23
+Change Component Designator: OldDesignator=R30 NewDesignator=R51
+Change Component Designator: OldDesignator=R31 NewDesignator=R52
+Change Component Designator: OldDesignator=R33 NewDesignator=R26
+Change Component Designator: OldDesignator=R34 NewDesignator=R24
+Change Component Designator: OldDesignator=R35 NewDesignator=R27
+Change Component Designator: OldDesignator=R38 NewDesignator=R31
+Change Component Designator: OldDesignator=R39 NewDesignator=R32
+Change Component Designator: OldDesignator=R40 NewDesignator=R33
+Change Component Designator: OldDesignator=R44 NewDesignator=R37
+Change Component Designator: OldDesignator=R45 NewDesignator=R38
+Change Component Designator: OldDesignator=R46 NewDesignator=R39
+Change Component Designator: OldDesignator=R50 NewDesignator=R45
+Change Component Designator: OldDesignator=R51 NewDesignator=R49
+Change Component Designator: OldDesignator=R52 NewDesignator=R54
+Change Component Designator: OldDesignator=R53 NewDesignator=R29
+Change Component Designator: OldDesignator=R54 NewDesignator=R55
+Change Component Designator: OldDesignator=R56 NewDesignator=R48
+Change Component Designator: OldDesignator=R57 NewDesignator=R50
+Change Component Designator: OldDesignator=R58 NewDesignator=R53
+Change Component Designator: OldDesignator=SW1 NewDesignator=SW2
+Change Component Designator: OldDesignator=SW2 NewDesignator=SW3
+Change Component Designator: OldDesignator=SW3 NewDesignator=SW4
+Change Component Designator: OldDesignator=SW4 NewDesignator=SW5
+Change Component Designator: OldDesignator=SW5 NewDesignator=SW6
+Change Component Designator: OldDesignator=SW6 NewDesignator=SW7
+Change Component Designator: OldDesignator=SW7 NewDesignator=SW1
+Change Component Designator: OldDesignator=T6 NewDesignator=T7
+Change Component Designator: OldDesignator=T7 NewDesignator=T8
+Change Component Designator: OldDesignator=T8 NewDesignator=T6
+Change Component Designator: OldDesignator=U2 NewDesignator=U3
+Change Component Designator: OldDesignator=U3 NewDesignator=U2
+Change Component Designator: OldDesignator=U6 NewDesignator=U7
+Change Component Designator: OldDesignator=U7 NewDesignator=U6
+Added Component: Designator=C20(JP2-D1T)
+Added Component: Designator=C24(JP9-D1T)
+Added Component: Designator=J1(SAMTEC_TSS-110-01-G-D)
+Added Pin To Net: NetName=ANALOG_2 Pin=C5-2
+Added Pin To Net: NetName=ANALOG_3 Pin=C6-2
+Added Pin To Net: NetName=ANALOG_4 Pin=C12-2
+Added Pin To Net: NetName=ANALOG_5 Pin=C14-2
+Added Pin To Net: NetName=ANALOG_6 Pin=C15-2
+Added Pin To Net: NetName=DEBUG_UART_TX Pin=C20-1
+Added Pin To Net: NetName=DEBUG_UART_RX Pin=C20-2
+Added Pin To Net: NetName=VDDA Pin=C24-1
+Added Pin To Net: NetName=GND Pin=C24-2
+Added Pin To Net: NetName=BUT_UP Pin=C24-3
+Added Pin To Net: NetName=BUT_DOWN Pin=C24-4
+Added Pin To Net: NetName=BUT_SET_2 Pin=C24-6
+Added Pin To Net: NetName=BUT_TURN_OFF Pin=C24-8
+Added Pin To Net: NetName=BUT_UP Pin=D1-1
+Added Pin To Net: NetName=BUT_DOWN Pin=D3-1
+Added Pin To Net: NetName=BUT_SET_2 Pin=D7-1
+Added Pin To Net: NetName=LED_7_1 Pin=J1-01
+Added Pin To Net: NetName=OUT_LED_1 Pin=J1-02
+Added Pin To Net: NetName=LED_7_2 Pin=J1-03
+Added Pin To Net: NetName=OUT_LED_2 Pin=J1-04
+Added Pin To Net: NetName=LED_7_3 Pin=J1-05
+Added Pin To Net: NetName=OUT_LED_3 Pin=J1-06
+Added Pin To Net: NetName=LED_7_4 Pin=J1-07
+Added Pin To Net: NetName=OUT_LED_4 Pin=J1-08
+Added Pin To Net: NetName=LED_7_5 Pin=J1-09
+Added Pin To Net: NetName=BUT_IN_1 Pin=J1-10
+Added Pin To Net: NetName=LED_7_6 Pin=J1-11
+Added Pin To Net: NetName=BUT_IN_2 Pin=J1-12
+Added Pin To Net: NetName=LED_7_7 Pin=J1-13
+Added Pin To Net: NetName=BUT_IN_3 Pin=J1-14
+Added Pin To Net: NetName=LED_7_8 Pin=J1-15
+Added Pin To Net: NetName=BUT_IN_4 Pin=J1-16
+Added Pin To Net: NetName=+5_BUT Pin=J1-17
+Added Pin To Net: NetName=BUT_IN_5 Pin=J1-18
+Added Pin To Net: NetName=GND Pin=J1-19
+Added Pin To Net: NetName=BUT_IN_6 Pin=J1-20
+Added Pin To Net: NetName=NetBJT6_3 Pin=LS1-N
+Added Pin To Net: NetName=VDDA Pin=LS1-P
+Added Pin To Net: NetName=ANA_IN_2 Pin=R14-1
+Added Pin To Net: NetName=ANALOG_2 Pin=R14-2
+Added Pin To Net: NetName=ANALOG_2 Pin=R18-1
+Added Pin To Net: NetName=ANA_IN_3 Pin=R21-1
+Added Pin To Net: NetName=ANALOG_3 Pin=R21-2
+Added Pin To Net: NetName=ANALOG_3 Pin=R22-1
+Added Pin To Net: NetName=ANA_IN_4 Pin=R23-1
+Added Pin To Net: NetName=ANALOG_4 Pin=R23-2
+Added Pin To Net: NetName=ANALOG_4 Pin=R26-1
+Added Pin To Net: NetName=ANA_IN_5 Pin=R31-1
+Added Pin To Net: NetName=ANALOG_5 Pin=R31-2
+Added Pin To Net: NetName=ANALOG_5 Pin=R32-1
+Added Pin To Net: NetName=ANA_IN_6 Pin=R37-1
+Added Pin To Net: NetName=ANALOG_6 Pin=R37-2
+Added Pin To Net: NetName=ANALOG_6 Pin=R38-1
+Added Pin To Net: NetName=BUT_UP Pin=U6-27
+Added Pin To Net: NetName=BUT_DOWN Pin=U6-28
+Added Pin To Net: NetName=BUT_SET_2 Pin=U6-30
+Added Pin To Net: NetName=OUT_ROLE_5 Pin=U6-41
+Added Pin To Net: NetName=OUT_ROLE_3 Pin=U6-43
+Added Pin To Net: NetName=OUT_ROLE_2 Pin=U6-44
+Added Pin To Net: NetName=OUT_ROLE_1 Pin=U6-45
+Added Pin To Net: NetName=BUZZER Pin=U6-46
+Added Pin To Net: NetName=LED_3 Pin=U6-53
+Added Pin To Net: NetName=LED_2 Pin=U6-54
+Added Pin To Net: NetName=LED_1 Pin=U6-55
+Added Pin To Net: NetName=LED_SEG_4 Pin=U6-58
+Added Pin To Net: NetName=LED_SEG_3 Pin=U6-59
+Added Pin To Net: NetName=LED_SEG_2 Pin=U6-60
+Added Pin To Net: NetName=LED_SEG_1 Pin=U6-61
+Added Pin To Net: NetName=LED_LATCH Pin=U6-62
+Added Pin To Net: NetName=LED_SCK Pin=U6-63
+Added Pin To Net: NetName=LED_SDA Pin=U6-64
+Change Net Name : Old Net Name=BUT_DOWN New Net Name=IN_BUT_2
+Change Net Name : Old Net Name=BUT_SET_1 New Net Name=IN_PUT_3
+Change Net Name : Old Net Name=BUT_SET_2 New Net Name=IN_BUT_4
+Change Net Name : Old Net Name=BUT_TURN_OFF New Net Name=IN_PUT_6
+Change Net Name : Old Net Name=BUT_TURN_ON New Net Name=IN_PUT_5
+Change Net Name : Old Net Name=BUT_UP New Net Name=IN_BUT_1
+Change Net Name : Old Net Name=KDT_OUT New Net Name=START_FROM
+Change Net Name : Old Net Name=NetR12_1 New Net Name=NetR9_1
+Change Net Name : Old Net Name=NetR14_1 New Net Name=NetR10_1
+Change Net Name : Old Net Name=NetR15_1 New Net Name=NetR11_1
+Change Net Name : Old Net Name=NetR16_1 New Net Name=NetR12_1
+Change Net Name : Old Net Name=NetR17_1 New Net Name=NetR13_1
+Change Net Name : Old Net Name=NetR19_1 New Net Name=NetR15_1
+Change Net Name : Old Net Name=NetR20_1 New Net Name=NetR16_1
+Change Net Name : Old Net Name=NetR23_1 New Net Name=NetR19_1
+Change Net Name : Old Net Name=OUT_5 New Net Name=INVENTER_2
+Added Pin To Net: NetName=ERROR_ABOVE Pin=H4-1
+Added Pin To Net: NetName=ERROR_ABOVE Pin=R33-1
+Added Pin To Net: NetName=ERROR_ABOVE Pin=U5-4
+Added Net: Name=ERROR_ABOVE
+Added Pin To Net: NetName=ERROR_BELOW Pin=H5-1
+Added Pin To Net: NetName=ERROR_BELOW Pin=R39-1
+Added Pin To Net: NetName=ERROR_BELOW Pin=U7-4
+Added Net: Name=ERROR_BELOW
+Added Pin To Net: NetName=IN_BUT_3 Pin=C24-5
+Added Pin To Net: NetName=IN_BUT_3 Pin=D4-1
+Added Pin To Net: NetName=IN_BUT_3 Pin=U6-29
+Added Net: Name=IN_BUT_3
+Added Pin To Net: NetName=IN_BUT_5 Pin=C24-7
+Added Pin To Net: NetName=IN_BUT_5 Pin=D8-1
+Added Pin To Net: NetName=IN_BUT_5 Pin=U6-31
+Added Net: Name=IN_BUT_5
+Added Pin To Net: NetName=IN_BUT_6 Pin=D9-1
+Added Pin To Net: NetName=IN_BUT_6 Pin=U6-32
+Added Net: Name=IN_BUT_6
+Added Pin To Net: NetName=IN_BUT_7 Pin=C24-9
+Added Pin To Net: NetName=IN_BUT_7 Pin=U6-24
+Added Net: Name=IN_BUT_7
+Added Pin To Net: NetName=INVENTER_1 Pin=H6-1
+Added Pin To Net: NetName=INVENTER_1 Pin=R45-1
+Added Pin To Net: NetName=INVENTER_1 Pin=U8-4
+Added Net: Name=INVENTER_1
+Added Pin To Net: NetName=INVENTER_3 Pin=H6-3
+Added Pin To Net: NetName=INVENTER_3 Pin=R54-1
+Added Pin To Net: NetName=INVENTER_3 Pin=U10-4
+Added Net: Name=INVENTER_3
+Added Pin To Net: NetName=INVENTER_4 Pin=H6-4
+Added Pin To Net: NetName=INVENTER_4 Pin=R55-1
+Added Pin To Net: NetName=INVENTER_4 Pin=U11-4
+Added Net: Name=INVENTER_4
+Added Pin To Net: NetName=OUT_ERROR_ABOVE Pin=U5-1
+Added Pin To Net: NetName=OUT_ERROR_ABOVE Pin=U6-33
+Added Net: Name=OUT_ERROR_ABOVE
+Added Pin To Net: NetName=OUT_ERROR_BELOW Pin=U6-51
+Added Pin To Net: NetName=OUT_ERROR_BELOW Pin=U7-1
+Added Net: Name=OUT_ERROR_BELOW
+Added Pin To Net: NetName=OUT_INVENTER_1 Pin=U6-40
+Added Pin To Net: NetName=OUT_INVENTER_1 Pin=U8-1
+Added Net: Name=OUT_INVENTER_1
+Added Pin To Net: NetName=OUT_INVENTER_2 Pin=U6-39
+Added Pin To Net: NetName=OUT_INVENTER_2 Pin=U9-1
+Added Net: Name=OUT_INVENTER_2
+Added Pin To Net: NetName=OUT_INVENTER_3 Pin=U6-38
+Added Pin To Net: NetName=OUT_INVENTER_3 Pin=U10-1
+Added Net: Name=OUT_INVENTER_3
+Added Pin To Net: NetName=OUT_INVENTER_4 Pin=U6-37
+Added Pin To Net: NetName=OUT_INVENTER_4 Pin=U11-1
+Added Net: Name=OUT_INVENTER_4
+Added Pin To Net: NetName=OUT_START_FROM Pin=U4-1
+Added Pin To Net: NetName=OUT_START_FROM Pin=U6-52
+Added Net: Name=OUT_START_FROM
+Added Member To Class: ClassName=SCH Member=Component C20 JP2
+Added Member To Class: ClassName=SCH Member=Component C23 JP4x1-2.0
+Added Member To Class: ClassName=SCH Member=Component C24 JP9
+Added Member To Class: ClassName=SCH Member=Component H6 Terminal5x5.08
+Added Member To Class: ClassName=SCH Member=Component J1 TSS-110-01-G-D
+Added Member To Class: ClassName=SCH Member=Component LS1 KXG0903C1
+Added Member To Class: ClassName=SCH Member=Component R41 Res_SMD
+Added Member To Class: ClassName=SCH Member=Component R43 Res_SMD
+Added Member To Class: ClassName=SCH Member=Component R46 Res_SMD
+Added Member To Class: ClassName=SCH Member=Component R47 Res_SMD
+Added Member To Class: ClassName=SCH Member=Component R51 Res_SMD
+Added Member To Class: ClassName=SCH Member=Component R55 Res_SMD

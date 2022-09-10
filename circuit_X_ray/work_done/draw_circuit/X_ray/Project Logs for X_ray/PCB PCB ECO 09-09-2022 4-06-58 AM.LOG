@@ -1,0 +1,27 @@
+Change Component Designator: OldDesignator=C30 NewDesignator=C31
+Change Component Designator: OldDesignator=C31 NewDesignator=C30
+Change Component Designator: OldDesignator=D1 NewDesignator=D2
+Change Component Designator: OldDesignator=D2 NewDesignator=D1
+Change Component Designator: OldDesignator=D4 NewDesignator=D5
+Change Component Designator: OldDesignator=D5 NewDesignator=D6
+Change Component Designator: OldDesignator=D6 NewDesignator=D4
+Change Component Designator: OldDesignator=D10 NewDesignator=D11
+Change Component Designator: OldDesignator=D11 NewDesignator=D12
+Change Component Designator: OldDesignator=D12 NewDesignator=D13
+Change Component Designator: OldDesignator=D13 NewDesignator=D14
+Change Component Designator: OldDesignator=D14 NewDesignator=D15
+Change Component Designator: OldDesignator=R53 NewDesignator=R56
+Change Component Designator: OldDesignator=R54 NewDesignator=R53
+Change Component Designator: OldDesignator=R55 NewDesignator=R54
+Change Component Designator: OldDesignator=R56 NewDesignator=R55
+Change Component Designator: OldDesignator=U8 NewDesignator=U9
+Change Component Designator: OldDesignator=U9 NewDesignator=U8
+Added Component: Designator=D10(SOD-123)
+Change Net Name : Old Net Name=NetD5_2 New Net Name=NetD6_2
+Added Member To Class: ClassName=SCH Member=Component C20 Cap_SMD
+Added Member To Class: ClassName=SCH Member=Component C22 Cap_SMD
+Added Member To Class: ClassName=SCH Member=Component D15 SS34
+Added Member To Class: ClassName=SCH Member=Component R38 Res_SMD
+Added Member To Class: ClassName=SCH Member=Component R40 Res_SMD
+Added Member To Class: ClassName=SCH Member=Component R44 Res_SMD
+Added Room: Name=SCH

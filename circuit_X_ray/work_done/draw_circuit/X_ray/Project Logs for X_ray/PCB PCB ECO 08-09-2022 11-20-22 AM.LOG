@@ -1,0 +1,29 @@
+Change Component Designator: OldDesignator=L2 NewDesignator=L1
+Change Component Designator: OldDesignator=U1 NewDesignator=U2
+Change Component Designator: OldDesignator=U2 NewDesignator=U3
+Change Component Designator: OldDesignator=U3 NewDesignator=U4
+Change Component Designator: OldDesignator=U4 NewDesignator=U5
+Change Component Designator: OldDesignator=U5 NewDesignator=U6
+Change Component Designator: OldDesignator=U6 NewDesignator=U7
+Change Component Designator: OldDesignator=U7 NewDesignator=U8
+Change Component Designator: OldDesignator=U8 NewDesignator=U9
+Change Component Designator: OldDesignator=U9 NewDesignator=U10
+Added Component: Designator=C2(CAP_SMD_1206)
+Added Component: Designator=D2(SMB)
+Added Component: Designator=R1(Res_SMD_0603)
+Added Component: Designator=U1(TO263)
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=VDDA Pin=C2-2
+Added Pin To Net: NetName=GND Pin=D2-1
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetLED1_1 Pin=R1-1
+Added Pin To Net: NetName=VDDA Pin=R1-2
+Added Pin To Net: NetName=24V Pin=U1-1
+Added Pin To Net: NetName=NetD2_2 Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=VDDA Pin=U1-4
+Added Pin To Net: NetName=GND Pin=U1-5
+Added Member To Class: ClassName=SCH Member=Component C2 Cap_SMD
+Added Member To Class: ClassName=SCH Member=Component D2 SS34
+Added Member To Class: ClassName=SCH Member=Component R1 Res_SMD
+Added Member To Class: ClassName=SCH Member=Component U10 PC817

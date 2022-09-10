@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=ANALOG_5 Pin=U9-6
+Added Pin To Net: NetName=ANALOG_6 Pin=U9-8
+Added Member To Class: ClassName=SCH Member=Component C20 Cap_SMD
+Added Member To Class: ClassName=SCH Member=Component R38 Res_SMD
+Added Member To Class: ClassName=SCH Member=Component R40 Res_SMD
+Added Member To Class: ClassName=SCH Member=Component R44 Res_SMD

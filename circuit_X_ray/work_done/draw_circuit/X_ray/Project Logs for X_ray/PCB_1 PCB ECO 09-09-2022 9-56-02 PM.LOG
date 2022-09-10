@@ -1,0 +1,55 @@
+Removed Pin From Net: NetName=ENCODER_A Pin=U7-37
+Removed Pin From Net: NetName=ENCODER_B Pin=U7-38
+Change Component Designator: OldDesignator=LS1 NewDesignator=LS2
+Added Component: Designator=LS1(XDCR_KXG0903C1)
+Added Pin To Net: NetName=ENCODER_A Pin=U7-15
+Added Pin To Net: NetName=ENCODER_B Pin=U7-16
+Change Net Name : Old Net Name=OUT_M_7 New Net Name=ANALOG_6
+Added Member To Class: ClassName=SCH Member=Component C7 Cap_SMD
+Added Member To Class: ClassName=SCH Member=Component C11 Cap_SMD
+Added Member To Class: ClassName=SCH Member=Component C13 Cap_SMD
+Added Member To Class: ClassName=SCH Member=Component C15 Cap_SMD
+Added Member To Class: ClassName=SCH Member=Component C18 Cap_SMD
+Added Member To Class: ClassName=SCH Member=Component C20 Cap_SMD
+Added Member To Class: ClassName=SCH Member=Component C21 Cap_SMD
+Added Member To Class: ClassName=SCH Member=Component C22 104
+Added Member To Class: ClassName=SCH Member=Component D1 1N4007
+Added Member To Class: ClassName=SCH Member=Component D2 SS34
+Added Member To Class: ClassName=SCH Member=Component D3 1N4007
+Added Member To Class: ClassName=SCH Member=Component D4 1N4007
+Added Member To Class: ClassName=SCH Member=Component D7 1N4007
+Added Member To Class: ClassName=SCH Member=Component D8 1N4007
+Added Member To Class: ClassName=SCH Member=Component H1 Terminal2x5.08
+Added Member To Class: ClassName=SCH Member=Component LS2 buzzer_5V
+Added Member To Class: ClassName=SCH Member=Component R3 Res_SMD
+Added Member To Class: ClassName=SCH Member=Component R4 Res_SMD
+Added Member To Class: ClassName=SCH Member=Component R8 Res_SMD
+Added Member To Class: ClassName=SCH Member=Component R9 Res_SMD
+Added Member To Class: ClassName=SCH Member=Component R18 Res_SMD
+Added Member To Class: ClassName=SCH Member=Component R22 Res_SMD
+Added Member To Class: ClassName=SCH Member=Component R27 Res_SMD
+Added Member To Class: ClassName=SCH Member=Component R28 Res_SMD
+Added Member To Class: ClassName=SCH Member=Component R29 Res_SMD
+Added Member To Class: ClassName=SCH Member=Component R33 Res_SMD
+Added Member To Class: ClassName=SCH Member=Component R34 Res_SMD
+Added Member To Class: ClassName=SCH Member=Component R35 Res_SMD
+Added Member To Class: ClassName=SCH Member=Component R38 Res_SMD
+Added Member To Class: ClassName=SCH Member=Component R39 Res_SMD
+Added Member To Class: ClassName=SCH Member=Component R40 Res_SMD
+Added Member To Class: ClassName=SCH Member=Component R44 Res_SMD
+Added Member To Class: ClassName=SCH Member=Component R46 Res_SMD
+Added Member To Class: ClassName=SCH Member=Component R53 Res_SMD
+Added Member To Class: ClassName=SCH Member=Component RL1 ReLay12V
+Added Member To Class: ClassName=SCH Member=Component RL2 ReLay12V
+Added Member To Class: ClassName=SCH Member=Component RL3 ReLay12V
+Added Member To Class: ClassName=SCH Member=Component RL4 ReLay12V
+Added Member To Class: ClassName=SCH Member=Component RL5 ReLay12V
+Added Member To Class: ClassName=SCH Member=Component SW7 Button6x6
+Added Member To Class: ClassName=SCH Member=Component T1 Terminal B 3P
+Added Member To Class: ClassName=SCH Member=Component T3 Terminal B 3P
+Added Member To Class: ClassName=SCH Member=Component T6 Terminal B 3P
+Added Member To Class: ClassName=SCH Member=Component U4 PC817
+Added Member To Class: ClassName=SCH Member=Component U5 PC817
+Added Member To Class: ClassName=SCH Member=Component U6 PC817
+Added Member To Class: ClassName=SCH Member=Component U8 PC817
+Added Member To Class: ClassName=SCH Member=Component U9 PC817

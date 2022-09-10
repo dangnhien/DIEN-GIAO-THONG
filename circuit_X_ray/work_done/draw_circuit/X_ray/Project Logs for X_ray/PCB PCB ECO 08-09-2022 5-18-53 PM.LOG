@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=VCCD Pin=C23-2
+Removed Pin From Net: NetName=VCCD Pin=U7-48
+Change Net Name : Old Net Name=VCCD New Net Name=VDDA
+Added Pin To Net: NetName=VCCD Pin=C23-2
+Added Pin To Net: NetName=VCCD Pin=U7-48
+Added Net: Name=VCCD
+Added Member To Class: ClassName=SCH Member=Component C2 JP4x1-2.0
+Added Member To Class: ClassName=SCH Member=Component C4 JP3
+Added Member To Class: ClassName=SCH Member=Component C6 JP8
+Added Member To Class: ClassName=SCH Member=Component C9 JP3
+Added Member To Class: ClassName=SCH Member=Component C18 JP3
+Added Member To Class: ClassName=SCH Member=Component C20 JP3
+Added Member To Class: ClassName=SCH Member=Component C21 JP3
+Added Member To Class: ClassName=SCH Member=Component D4 SS34
+Added Member To Class: ClassName=SCH Member=Component R2 Res_SMD
+Added Member To Class: ClassName=SCH Member=Component R3 Res_SMD
+Added Member To Class: ClassName=SCH Member=Component R4 Res_SMD
+Added Member To Class: ClassName=SCH Member=Component R5 Res_SMD
+Added Member To Class: ClassName=SCH Member=Component R7 Res_SMD
+Added Member To Class: ClassName=SCH Member=Component R16 Res_SMD
+Added Member To Class: ClassName=SCH Member=Component R23 Res_SMD
+Added Member To Class: ClassName=SCH Member=Component R26 Res_SMD
+Added Member To Class: ClassName=SCH Member=Component R35 Res_SMD
+Added Member To Class: ClassName=SCH Member=Component R36 Res_SMD
+Added Member To Class: ClassName=SCH Member=Component R37 Res_SMD
+Added Member To Class: ClassName=SCH Member=Component R39 Res_SMD

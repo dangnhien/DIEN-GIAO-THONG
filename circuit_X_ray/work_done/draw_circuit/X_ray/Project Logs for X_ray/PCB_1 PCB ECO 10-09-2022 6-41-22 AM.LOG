@@ -1,0 +1,48 @@
+Added Component: Designator=D5(SOD-123)
+Added Component: Designator=D10(SOD-123)
+Added Component: Designator=D11(SOD-123)
+Added Component: Designator=D12(SOD-123)
+Added Component: Designator=D13(SOD-123)
+Added Component: Designator=D14(SOD-123)
+Added Component: Designator=LED1(LED_SMD_0805)
+Added Component: Designator=LED3(LED_SMD_0805)
+Added Component: Designator=LED4(LED_SMD_0805)
+Added Component: Designator=LED5(LED_SMD_0805)
+Added Component: Designator=LED6(LED_SMD_0805)
+Added Pin To Net: NetName=NetBJT1_3 Pin=D5-1
+Added Pin To Net: NetName=24V Pin=D5-2
+Added Pin To Net: NetName=NetBJT2_3 Pin=D10-1
+Added Pin To Net: NetName=24V Pin=D10-2
+Added Pin To Net: NetName=NetBJT3_3 Pin=D11-1
+Added Pin To Net: NetName=24V Pin=D11-2
+Added Pin To Net: NetName=NetBJT4_3 Pin=D12-1
+Added Pin To Net: NetName=24V Pin=D12-2
+Added Pin To Net: NetName=NetBJT5_3 Pin=D13-1
+Added Pin To Net: NetName=24V Pin=D13-2
+Added Pin To Net: NetName=NetBJT6_3 Pin=D14-1
+Added Pin To Net: NetName=VDDA Pin=D14-2
+Added Pin To Net: NetName=NetLED1_1 Pin=LED1-1
+Added Pin To Net: NetName=NetBJT1_1 Pin=LED1-2
+Added Pin To Net: NetName=NetLED3_1 Pin=LED3-1
+Added Pin To Net: NetName=NetBJT2_1 Pin=LED3-2
+Added Pin To Net: NetName=NetLED4_1 Pin=LED4-1
+Added Pin To Net: NetName=NetBJT3_1 Pin=LED4-2
+Added Pin To Net: NetName=NetLED5_1 Pin=LED5-1
+Added Pin To Net: NetName=NetBJT4_1 Pin=LED5-2
+Added Pin To Net: NetName=NetLED6_1 Pin=LED6-1
+Added Pin To Net: NetName=NetBJT5_1 Pin=LED6-2
+Added Member To Class: ClassName=SCH Member=Component C7 Cap_SMD
+Added Member To Class: ClassName=SCH Member=Component C11 Cap_SMD
+Added Member To Class: ClassName=SCH Member=Component D2 1N4148
+Added Member To Class: ClassName=SCH Member=Component D5 1N4148
+Added Member To Class: ClassName=SCH Member=Component D10 1N4148
+Added Member To Class: ClassName=SCH Member=Component D11 1N4148
+Added Member To Class: ClassName=SCH Member=Component D12 1N4148
+Added Member To Class: ClassName=SCH Member=Component D13 1N4148
+Added Member To Class: ClassName=SCH Member=Component D14 1N4148
+Added Member To Class: ClassName=SCH Member=Component LED1 LED_SMD
+Added Member To Class: ClassName=SCH Member=Component LED3 LED_SMD
+Added Member To Class: ClassName=SCH Member=Component LED4 LED_SMD
+Added Member To Class: ClassName=SCH Member=Component LED5 LED_SMD
+Added Member To Class: ClassName=SCH Member=Component LED6 LED_SMD
+Added Member To Class: ClassName=SCH Member=Component R7 Res_SMD

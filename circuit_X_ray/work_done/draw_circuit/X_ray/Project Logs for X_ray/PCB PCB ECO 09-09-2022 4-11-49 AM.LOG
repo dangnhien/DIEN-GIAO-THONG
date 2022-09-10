@@ -1,0 +1,42 @@
+Removed Pin From Net: NetName=POWER_IN Pin=D2-1
+Removed Pin From Net: NetName=24V Pin=D2-2
+Removed Pin From Net: NetName=NetBJT1_3 Pin=D5-1
+Removed Pin From Net: NetName=24V Pin=D5-2
+Removed Pin From Net: NetName=GND Pin=D6-1
+Removed Pin From Net: NetName=NetD6_2 Pin=D6-2
+Removed Pin From Net: NetName=NetBJT2_3 Pin=D11-1
+Removed Pin From Net: NetName=24V Pin=D11-2
+Removed Pin From Net: NetName=NetBJT3_3 Pin=D12-1
+Removed Pin From Net: NetName=24V Pin=D12-2
+Removed Pin From Net: NetName=NetBJT4_3 Pin=D13-1
+Removed Pin From Net: NetName=24V Pin=D13-2
+Removed Pin From Net: NetName=NetBJT5_3 Pin=D14-1
+Removed Pin From Net: NetName=24V Pin=D14-2
+Removed Pin From Net: NetName=NetBJT6_3 Pin=D15-1
+Removed Pin From Net: NetName=VDDA Pin=D15-2
+Removed Member From Class: ClassName=SCH Member=D15
+Change Component Designator: OldDesignator=D10 NewDesignator=D5
+Added Component: Designator=D2(SOD-123)
+Added Component: Designator=D6(SOD-123)
+Added Component: Designator=D10(SOD-123)
+Added Component: Designator=D11(SOD-123)
+Added Component: Designator=D12(SOD-123)
+Added Component: Designator=D13(SOD-123)
+Added Component: Designator=D14(SOD-123)
+Added Pin To Net: NetName=POWER_IN Pin=D2-1
+Added Pin To Net: NetName=24V Pin=D2-2
+Added Pin To Net: NetName=NetBJT1_3 Pin=D5-1
+Added Pin To Net: NetName=24V Pin=D5-2
+Added Pin To Net: NetName=GND Pin=D6-1
+Added Pin To Net: NetName=NetD6_2 Pin=D6-2
+Added Pin To Net: NetName=NetBJT2_3 Pin=D10-1
+Added Pin To Net: NetName=24V Pin=D10-2
+Added Pin To Net: NetName=NetBJT3_3 Pin=D11-1
+Added Pin To Net: NetName=24V Pin=D11-2
+Added Pin To Net: NetName=NetBJT4_3 Pin=D12-1
+Added Pin To Net: NetName=24V Pin=D12-2
+Added Pin To Net: NetName=NetBJT5_3 Pin=D13-1
+Added Pin To Net: NetName=24V Pin=D13-2
+Added Pin To Net: NetName=NetBJT6_3 Pin=D14-1
+Added Pin To Net: NetName=VDDA Pin=D14-2
+Added Member To Class: ClassName=SCH Member=Component D10 1N4148

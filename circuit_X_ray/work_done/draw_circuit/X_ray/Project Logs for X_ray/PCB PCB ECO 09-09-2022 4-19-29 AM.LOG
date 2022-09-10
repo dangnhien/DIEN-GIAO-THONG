@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=VDDA Pin=LS1-1A
+Removed Pin From Net: NetName=VDDA Pin=LS1-1
+Removed Pin From Net: NetName=NetBJT6_3 Pin=LS1-2A
+Removed Pin From Net: NetName=NetBJT6_3 Pin=LS1-2
+Added Component: Designator=LS1(XDCR_AI-1223-TWT-12V-R)
+Added Pin To Net: NetName=NetBJT6_3 Pin=LS1-N
+Added Pin To Net: NetName=VDDA Pin=LS1-P
+Added Member To Class: ClassName=SCH Member=Component D6 1N4148
+Added Member To Class: ClassName=SCH Member=Component D10 1N4148
+Added Member To Class: ClassName=SCH Member=Component D11 1N4148
+Added Member To Class: ClassName=SCH Member=Component D12 1N4148
+Added Member To Class: ClassName=SCH Member=Component D13 1N4148
+Added Member To Class: ClassName=SCH Member=Component D14 1N4148

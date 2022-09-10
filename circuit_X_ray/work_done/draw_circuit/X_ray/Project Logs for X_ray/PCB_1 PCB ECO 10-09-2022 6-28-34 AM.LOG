@@ -1,0 +1,123 @@
+Removed Pin From Net: NetName=VDDA Pin=C7-1
+Removed Pin From Net: NetName=GND Pin=C7-2
+Removed Pin From Net: NetName=VDDA Pin=C11-1
+Removed Pin From Net: NetName=GND Pin=C11-2
+Change Component Designator: OldDesignator=R7 NewDesignator=R8
+Added Component: Designator=C7(CAP_SMD_1206)
+Added Component: Designator=C8(CAP_SMD_1206)
+Added Component: Designator=C9(CAP_SMD_1206)
+Added Component: Designator=C10(CAP_SMD_1206)
+Added Component: Designator=C11(CAP_SMD_1206)
+Added Component: Designator=R1(Res_SMD_0805)
+Added Component: Designator=R2(Res_SMD_0805)
+Added Component: Designator=R3(Res_SMD_0805)
+Added Component: Designator=R5(Res_SMD_0805)
+Added Component: Designator=R7(Res_SMD_0805)
+Added Component: Designator=R9(Res_SMD_0805)
+Added Component: Designator=R10(Res_SMD_0805)
+Added Component: Designator=R11(Res_SMD_0805)
+Added Component: Designator=R12(Res_SMD_0805)
+Added Component: Designator=R13(Res_SMD_0805)
+Added Component: Designator=R15(Res_SMD_0805)
+Added Component: Designator=R16(Res_SMD_0805)
+Added Component: Designator=R17(Res_SMD_0805)
+Added Component: Designator=R19(Res_SMD_0805)
+Added Component: Designator=R20(Res_SMD_0805)
+Added Component: Designator=R25(Res_SMD_0805)
+Added Component: Designator=R28(Res_SMD_0805)
+Added Component: Designator=R30(Res_SMD_0805)
+Added Component: Designator=R34(Res_SMD_0805)
+Added Component: Designator=R35(Res_SMD_0805)
+Added Component: Designator=R36(Res_SMD_0805)
+Added Component: Designator=R40(Res_SMD_0805)
+Added Component: Designator=R42(Res_SMD_0805)
+Added Component: Designator=R44(Res_SMD_0805)
+Added Component: Designator=R56(Res_SMD_0805)
+Added Pin To Net: NetName=VCCD Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=VDDA Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=VDDA Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=VDDA Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=VDDA Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=NetLED1_1 Pin=R1-1
+Added Pin To Net: NetName=VDDA Pin=R1-2
+Added Pin To Net: NetName=NetLED2_1 Pin=R2-1
+Added Pin To Net: NetName=VDDA Pin=R2-2
+Added Pin To Net: NetName=NetBJT1_1 Pin=R3-1
+Added Pin To Net: NetName=OUT_ROLE_1 Pin=R3-2
+Added Pin To Net: NetName=GND Pin=R5-1
+Added Pin To Net: NetName=NetBJT1_1 Pin=R5-2
+Added Pin To Net: NetName=NetLED3_1 Pin=R7-1
+Added Pin To Net: NetName=VDDA Pin=R7-2
+Added Pin To Net: NetName=LED_7_1 Pin=R9-1
+Added Pin To Net: NetName=NetR9_2 Pin=R9-2
+Added Pin To Net: NetName=LED_7_2 Pin=R10-1
+Added Pin To Net: NetName=NetR10_2 Pin=R10-2
+Added Pin To Net: NetName=LED_7_3 Pin=R11-1
+Added Pin To Net: NetName=NetR11_2 Pin=R11-2
+Added Pin To Net: NetName=LED_7_4 Pin=R12-1
+Added Pin To Net: NetName=NetR12_2 Pin=R12-2
+Added Pin To Net: NetName=LED_7_5 Pin=R13-1
+Added Pin To Net: NetName=NetR13_2 Pin=R13-2
+Added Pin To Net: NetName=LED_7_6 Pin=R15-1
+Added Pin To Net: NetName=NetR15_2 Pin=R15-2
+Added Pin To Net: NetName=LED_7_7 Pin=R16-1
+Added Pin To Net: NetName=NetR16_2 Pin=R16-2
+Added Pin To Net: NetName=NetBJT2_1 Pin=R17-1
+Added Pin To Net: NetName=OUT_ROLE_2 Pin=R17-2
+Added Pin To Net: NetName=LED_7_8 Pin=R19-1
+Added Pin To Net: NetName=NetR19_2 Pin=R19-2
+Added Pin To Net: NetName=GND Pin=R20-1
+Added Pin To Net: NetName=NetBJT2_1 Pin=R20-2
+Added Pin To Net: NetName=NetLED4_1 Pin=R25-1
+Added Pin To Net: NetName=VDDA Pin=R25-2
+Added Pin To Net: NetName=NetBJT3_1 Pin=R28-1
+Added Pin To Net: NetName=OUT_ROLE_3 Pin=R28-2
+Added Pin To Net: NetName=GND Pin=R30-1
+Added Pin To Net: NetName=NetBJT3_1 Pin=R30-2
+Added Pin To Net: NetName=NetLED5_1 Pin=R34-1
+Added Pin To Net: NetName=VDDA Pin=R34-2
+Added Pin To Net: NetName=NetBJT4_1 Pin=R35-1
+Added Pin To Net: NetName=OUT_ROLE_4 Pin=R35-2
+Added Pin To Net: NetName=GND Pin=R36-1
+Added Pin To Net: NetName=NetBJT4_1 Pin=R36-2
+Added Pin To Net: NetName=NetLED6_1 Pin=R40-1
+Added Pin To Net: NetName=VDDA Pin=R40-2
+Added Pin To Net: NetName=NetBJT5_1 Pin=R42-1
+Added Pin To Net: NetName=OUT_ROLE_5 Pin=R42-2
+Added Pin To Net: NetName=GND Pin=R44-1
+Added Pin To Net: NetName=NetBJT5_1 Pin=R44-2
+Added Pin To Net: NetName=NetBJT6_1 Pin=R56-1
+Added Pin To Net: NetName=BUZZER Pin=R56-2
+Added Member To Class: ClassName=SCH Member=Component C8 Cap_SMD
+Added Member To Class: ClassName=SCH Member=Component C9 Cap_SMD
+Added Member To Class: ClassName=SCH Member=Component C10 Cap_SMD
+Added Member To Class: ClassName=SCH Member=Component R1 Res_SMD
+Added Member To Class: ClassName=SCH Member=Component R2 Res_SMD
+Added Member To Class: ClassName=SCH Member=Component R3 Res_SMD
+Added Member To Class: ClassName=SCH Member=Component R5 Res_SMD
+Added Member To Class: ClassName=SCH Member=Component R8 Res_SMD
+Added Member To Class: ClassName=SCH Member=Component R9 Res_SMD
+Added Member To Class: ClassName=SCH Member=Component R10 Res_SMD
+Added Member To Class: ClassName=SCH Member=Component R11 Res_SMD
+Added Member To Class: ClassName=SCH Member=Component R12 Res_SMD
+Added Member To Class: ClassName=SCH Member=Component R13 Res_SMD
+Added Member To Class: ClassName=SCH Member=Component R15 Res_SMD
+Added Member To Class: ClassName=SCH Member=Component R16 Res_SMD
+Added Member To Class: ClassName=SCH Member=Component R17 Res_SMD
+Added Member To Class: ClassName=SCH Member=Component R19 Res_SMD
+Added Member To Class: ClassName=SCH Member=Component R20 Res_SMD
+Added Member To Class: ClassName=SCH Member=Component R25 Res_SMD
+Added Member To Class: ClassName=SCH Member=Component R28 Res_SMD
+Added Member To Class: ClassName=SCH Member=Component R30 Res_SMD
+Added Member To Class: ClassName=SCH Member=Component R34 Res_SMD
+Added Member To Class: ClassName=SCH Member=Component R35 Res_SMD
+Added Member To Class: ClassName=SCH Member=Component R36 Res_SMD
+Added Member To Class: ClassName=SCH Member=Component R40 Res_SMD
+Added Member To Class: ClassName=SCH Member=Component R42 Res_SMD
+Added Member To Class: ClassName=SCH Member=Component R44 Res_SMD
+Added Member To Class: ClassName=SCH Member=Component R56 Res_SMD

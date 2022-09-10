@@ -1,0 +1,6 @@
+D:\DIEN-GIAO-THONG\circuit_X_ray\work_done\code\test_draw_altium\test_draw_altium.cydsn\test_draw_altium.cyprj|62444de6-99dd-415f-9885-8ee66674ab22
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|010b9bf6-7de1-440b-b53f-20f2062c854f
+C:\Users\NGUYEN-DUC-DAT\Documents\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|1a8765cf-26da-4c1d-9f94-90b1e37d38ec
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|5b967b36-dd22-47a4-9eb0-3a09cd47a2fb
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|cfffd86e-c855-4bee-ae33-63e5e931ee0b
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|647f643c-ca02-42fe-94fa-92a6fb16c65f

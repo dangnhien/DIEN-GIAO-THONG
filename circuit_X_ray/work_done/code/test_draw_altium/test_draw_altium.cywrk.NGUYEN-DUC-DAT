@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CyXmlSerializer>
+<!--This file is machine generated and read. It is not intended to be edited by hand.-->
+<!--Due to this, there is no schema for this file.-->
+<CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWrkspcCustomData" version="4">
+<CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997 type_name="CyDesigner.Common.Base.CyCustomData" version="2">
+<userData>
+<dataGuid v="1b906a0f-a7b6-4e4d-a428-82f98b53cb35">
+<CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35 type_name="CyDesigner.Common.ProjMgmt.GUI.CyExplorerWindow+CyExplorerWindowState" version="3" SelectedTab="Source">
+<TreeKeys>
+<v>Source</v>
+<v>Components</v>
+<v>Output</v>
+</TreeKeys>
+<TreeStates>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="test_draw_altium\test_draw_altium\test_draw_altium.cydwr">
+<ExpandedNodeIds>
+<v>test_draw_altium</v>
+<v>test_draw_altium\test_draw_altium</v>
+<v>test_draw_altium\test_draw_altium\TopDesign</v>
+<v>test_draw_altium\test_draw_altium\test_draw_altium.cydwr</v>
+<v>test_draw_altium\test_draw_altium\test_draw_altium.cydwr\Pins</v>
+<v>test_draw_altium\test_draw_altium\test_draw_altium.cydwr\Analog</v>
+<v>test_draw_altium\test_draw_altium\test_draw_altium.cydwr\DMA</v>
+<v>test_draw_altium\test_draw_altium\test_draw_altium.cydwr\Clocks</v>
+<v>test_draw_altium\test_draw_altium\test_draw_altium.cydwr\Interrupts</v>
+<v>test_draw_altium\test_draw_altium\test_draw_altium.cydwr\System</v>
+<v>test_draw_altium\test_draw_altium\test_draw_altium.cydwr\Directives</v>
+<v>test_draw_altium\test_draw_altium\test_draw_altium.cydwr\Flash Security</v>
+<v>test_draw_altium\test_draw_altium\Header Files</v>
+<v>test_draw_altium\test_draw_altium\Header Files\cyapicallbacks.h</v>
+<v>test_draw_altium\test_draw_altium\Source Files</v>
+<v>test_draw_altium\test_draw_altium\Source Files\main.c</v>
+<v>test_draw_altium\test_draw_altium\Generated_Source</v>
+<v>test_draw_altium\test_draw_altium\Generated_Source\PSoC4</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>test_draw_altium</v>
+<v>test_draw_altium\test_draw_altium</v>
+<v>test_draw_altium\test_draw_altium\TopDesign</v>
+<v>test_draw_altium\test_draw_altium\test_draw_altium.cydwr</v>
+<v>test_draw_altium\test_draw_altium\test_draw_altium.cydwr\Pins</v>
+<v>test_draw_altium\test_draw_altium\test_draw_altium.cydwr\Analog</v>
+<v>test_draw_altium\test_draw_altium\test_draw_altium.cydwr\DMA</v>
+<v>test_draw_altium\test_draw_altium\test_draw_altium.cydwr\Clocks</v>
+<v>test_draw_altium\test_draw_altium\test_draw_altium.cydwr\Interrupts</v>
+<v>test_draw_altium\test_draw_altium\test_draw_altium.cydwr\System</v>
+<v>test_draw_altium\test_draw_altium\test_draw_altium.cydwr\Directives</v>
+<v>test_draw_altium\test_draw_altium\test_draw_altium.cydwr\Flash Security</v>
+<v>test_draw_altium\test_draw_altium\Header Files</v>
+<v>test_draw_altium\test_draw_altium\Header Files\cyapicallbacks.h</v>
+<v>test_draw_altium\test_draw_altium\Source Files</v>
+<v>test_draw_altium\test_draw_altium\Source Files\main.c</v>
+<v>test_draw_altium\test_draw_altium\Generated_Source</v>
+<v>test_draw_altium\test_draw_altium\Generated_Source\PSoC4</v>
+<v>test_draw_altium\test_draw_altium\Generated_Source\PSoC4\adc</v>
+<v>test_draw_altium\test_draw_altium\Generated_Source\PSoC4\adc_intClock</v>
+<v>test_draw_altium\test_draw_altium\Generated_Source\PSoC4\adc_IRQ</v>
+<v>test_draw_altium\test_draw_altium\Generated_Source\PSoC4\analog_1</v>
+<v>test_draw_altium\test_draw_altium\Generated_Source\PSoC4\analog_2</v>
+<v>test_draw_altium\test_draw_altium\Generated_Source\PSoC4\analog_3</v>
+<v>test_draw_altium\test_draw_altium\Generated_Source\PSoC4\analog_4</v>
+<v>test_draw_altium\test_draw_altium\Generated_Source\PSoC4\analog_5</v>
+<v>test_draw_altium\test_draw_altium\Generated_Source\PSoC4\analog_6</v>
+<v>test_draw_altium\test_draw_altium\Generated_Source\PSoC4\BUT_DOWN</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>test_draw_altium</v>
+<v>test_draw_altium\test_draw_altium</v>
+<v>test_draw_altium\test_draw_altium\TopDesign</v>
+<v>test_draw_altium\test_draw_altium\TopDesign\TopDesign.cysch</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>test_draw_altium</v>
+<v>test_draw_altium\test_draw_altium</v>
+<v>test_draw_altium\test_draw_altium\TopDesign</v>
+<v>test_draw_altium\test_draw_altium\TopDesign\TopDesign.cysch</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>test_draw_altium</v>
+<v>test_draw_altium\test_draw_altium</v>
+<v>test_draw_altium\test_draw_altium\CortexM0</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\adc.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\adc_INT.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\adc_intClock.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\adc_IRQ.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\adc_PM.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\analog_1.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\analog_1_PM.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\analog_2.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\analog_2_PM.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\analog_3.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\analog_3_PM.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\analog_4.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\analog_4_PM.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\analog_5.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\analog_5_PM.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\analog_6.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\analog_6_PM.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\BUT_DOWN.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\BUT_DOWN_PM.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\BUT_SET_1.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\BUT_SET_1_PM.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\BUT_SET_2.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\BUT_SET_2_PM.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\BUT_TURN_OFF.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\BUT_TURN_OFF_PM.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\BUT_TURN_ON.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\BUT_TURN_ON_PM.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\BUT_UP.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\BUT_UP_PM.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\BUZZER.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\BUZZER_PM.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\Cm0Start.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\CyDMA.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\CyLFClk.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\ENCODER_1.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\ENCODER_1_PM.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\ENCODER_2.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\ENCODER_2_PM.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\LED_1.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\LED_1_PM.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\LED_2.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\LED_2_PM.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\LED_3.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\LED_3_PM.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\LED_LATCH.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\LED_LATCH_PM.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\LED_SCK.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\LED_SCK_PM.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\LED_SDA.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\LED_SDA_PM.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\LED_SEG_1.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\LED_SEG_1_PM.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\LED_SEG_2.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\LED_SEG_2_PM.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\LED_SEG_3.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\LED_SEG_3_PM.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\LED_SEG_4.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\LED_SEG_4_PM.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\main.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\OUT_M_1.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\OUT_M_1_PM.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\OUT_M_2.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\OUT_M_2_PM.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\OUT_M_3.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\OUT_M_3_PM.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\OUT_M_4.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\OUT_M_4_PM.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\OUT_M_5.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\OUT_M_5_PM.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\OUT_M_6.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\OUT_M_6_PM.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\OUT_M_7.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\OUT_M_7_PM.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\OUT_ROLE_1.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\OUT_ROLE_1_PM.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\OUT_ROLE_2.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\OUT_ROLE_2_PM.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\OUT_ROLE_3.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\OUT_ROLE_3_PM.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\OUT_ROLE_4.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\OUT_ROLE_4_PM.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\OUT_ROLE_5.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\OUT_ROLE_5_PM.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\OUT_ROLE_6.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\OUT_ROLE_6_PM.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\uart.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\uart_BOOT.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\uart_PM.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\uart_rx.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\uart_rx_PM.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\uart_SCBCLK.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\uart_SPI_UART.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\uart_SPI_UART_INT.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\uart_tx.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\uart_tx_PM.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\uart_UART.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\uart_UART_BOOT.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\test_draw_altium.elf</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\test_draw_altium.hex</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\test_draw_altium.map</v>
+<v>test_draw_altium\test_draw_altium\test_draw_altium.gpdsc</v>
+<v>test_draw_altium\test_draw_altium\test_draw_altium.rpt</v>
+<v>test_draw_altium\test_draw_altium\test_draw_altium_timing.html</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>test_draw_altium</v>
+<v>test_draw_altium\test_draw_altium</v>
+<v>test_draw_altium\test_draw_altium\CortexM0</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\adc.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\adc_INT.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\adc_intClock.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\adc_IRQ.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\adc_PM.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\analog_1.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\analog_1_PM.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\analog_2.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\analog_2_PM.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\analog_3.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\analog_3_PM.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\analog_4.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\analog_4_PM.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\analog_5.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\analog_5_PM.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\analog_6.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\analog_6_PM.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\BUT_DOWN.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\BUT_DOWN_PM.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\BUT_SET_1.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\BUT_SET_1_PM.lst</v>
+<v>test_draw_altium\test_draw_altium\CortexM0\ARM_GCC_541\Debug\Listing Files\BUT_SET_2.lst</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStates>
+<TreeKeysV2>
+<v>Datasheet</v>
+</TreeKeysV2>
+<TreeStatesV2>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>test_draw_altium</v>
+<v>test_draw_altium\test_draw_altium</v>
+<v>test_draw_altium\test_draw_altium\PSoC 4 Architecture TRM</v>
+<v>test_draw_altium\test_draw_altium\PSoC 4200M Family Datasheet</v>
+<v>test_draw_altium\test_draw_altium\System Reference Guides</v>
+<v>test_draw_altium\test_draw_altium\System Reference Guides\cy_boot_v6_0</v>
+<v>test_draw_altium\test_draw_altium\System Reference Guides\cy_dmac_v1_10</v>
+<v>test_draw_altium\test_draw_altium\System Reference Guides\cy_lfclk_v1_20</v>
+<v>test_draw_altium\test_draw_altium\ADC_SAR_SEQ_P4_v2_50.pdf</v>
+<v>test_draw_altium\test_draw_altium\cy_pins_v2_20</v>
+<v>test_draw_altium\test_draw_altium\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>test_draw_altium\test_draw_altium\SCB_P4_v4_0.pdf</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>test_draw_altium</v>
+<v>test_draw_altium\test_draw_altium</v>
+<v>test_draw_altium\test_draw_altium\PSoC 4 Architecture TRM</v>
+<v>test_draw_altium\test_draw_altium\PSoC 4200M Family Datasheet</v>
+<v>test_draw_altium\test_draw_altium\System Reference Guides</v>
+<v>test_draw_altium\test_draw_altium\System Reference Guides\cy_boot_v6_0</v>
+<v>test_draw_altium\test_draw_altium\System Reference Guides\cy_dmac_v1_10</v>
+<v>test_draw_altium\test_draw_altium\System Reference Guides\cy_lfclk_v1_20</v>
+<v>test_draw_altium\test_draw_altium\ADC_SAR_SEQ_P4_v2_50.pdf</v>
+<v>test_draw_altium\test_draw_altium\cy_pins_v2_20</v>
+<v>test_draw_altium\test_draw_altium\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>test_draw_altium\test_draw_altium\SCB_P4_v4_0.pdf</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStatesV2>
+</CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35>
+</dataGuid>
+</userData>
+</CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
+<Unloaded />
+<OpenDocs>
+<name v=".\test_draw_altium.cydsn\TopDesign\TopDesign.cysch" />
+<name v=".\test_draw_altium.cydsn\test_draw_altium.cydwr" />
+</OpenDocs>
+<OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
+
+  Actipro Docking/MDI for WinForms
+  Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
+  http://www.actiprosoftware.com
+
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="966, 558" SelectedTabbedMdiWindow="9792adaa-e7a1-498c-8158-69a6a0021f6e"><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="d7f23ced-4a8f-474d-9a7b-db5f2e330e0f" /><DocumentWindow Key="D:\DIEN-GIAO-THONG\circuit_X_ray\work_done\code\test_draw_altium\test_draw_altium.cydsn\TopDesign\TopDesign.cysch" Guid="542a79ef-b622-4ecf-87af-13ad4a40e624" /><DocumentWindow Key="D:\DIEN-GIAO-THONG\circuit_X_ray\work_done\code\test_draw_altium\test_draw_altium.cydsn\test_draw_altium.cydwr" Guid="9792adaa-e7a1-498c-8158-69a6a0021f6e" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+<config v="" />
+<AutoUpdate v="true" />
+</CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
+</CyXmlSerializer>

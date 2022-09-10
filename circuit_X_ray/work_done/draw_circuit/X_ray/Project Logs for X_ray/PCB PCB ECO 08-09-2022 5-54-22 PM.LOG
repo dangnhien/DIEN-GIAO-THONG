@@ -1,0 +1,75 @@
+Change Component Designator: OldDesignator=C20 NewDesignator=C21
+Change Component Designator: OldDesignator=C21 NewDesignator=C23
+Change Component Designator: OldDesignator=C22 NewDesignator=C24
+Change Component Designator: OldDesignator=C23 NewDesignator=C25
+Change Component Designator: OldDesignator=C24 NewDesignator=C26
+Change Component Designator: OldDesignator=C25 NewDesignator=C27
+Change Component Designator: OldDesignator=C26 NewDesignator=C28
+Change Component Designator: OldDesignator=C27 NewDesignator=C29
+Change Component Designator: OldDesignator=C28 NewDesignator=C30
+Change Component Designator: OldDesignator=C29 NewDesignator=C31
+Change Component Designator: OldDesignator=R38 NewDesignator=R39
+Change Component Designator: OldDesignator=R39 NewDesignator=R41
+Change Component Designator: OldDesignator=R40 NewDesignator=R43
+Change Component Designator: OldDesignator=R41 NewDesignator=R45
+Change Component Designator: OldDesignator=R42 NewDesignator=R46
+Change Component Designator: OldDesignator=R43 NewDesignator=R47
+Change Component Designator: OldDesignator=R44 NewDesignator=R48
+Change Component Designator: OldDesignator=R45 NewDesignator=R49
+Change Component Designator: OldDesignator=R46 NewDesignator=R50
+Change Component Designator: OldDesignator=R47 NewDesignator=R53
+Change Component Designator: OldDesignator=R48 NewDesignator=R51
+Change Component Designator: OldDesignator=R49 NewDesignator=R52
+Change Component Designator: OldDesignator=R50 NewDesignator=R56
+Change Component Designator: OldDesignator=R51 NewDesignator=R58
+Change Component Designator: OldDesignator=R52 NewDesignator=R54
+Change Component Designator: OldDesignator=R53 NewDesignator=R55
+Change Component Designator: OldDesignator=R54 NewDesignator=R59
+Change Component Designator: OldDesignator=R55 NewDesignator=R57
+Change Component Designator: OldDesignator=U7 NewDesignator=U9
+Change Component Designator: OldDesignator=U8 NewDesignator=U7
+Change Component Designator: OldDesignator=U9 NewDesignator=U8
+Added Component: Designator=C20(CAP_SMD_1206)
+Added Component: Designator=C22(CAP_SMD_1206)
+Added Component: Designator=R38(Res_SMD_1206)
+Added Component: Designator=R40(Res_SMD_1206)
+Added Component: Designator=R42(Res_SMD_1206)
+Added Component: Designator=R44(Res_SMD_1206)
+Added Component: Designator=T6(Terminal-3p-381)
+Added Component: Designator=T7(Terminal-3p-381)
+Added Pin To Net: NetName=GND Pin=C20-1
+Added Pin To Net: NetName=GND Pin=C22-1
+Added Pin To Net: NetName=GND Pin=R40-2
+Added Pin To Net: NetName=GND Pin=R44-2
+Added Pin To Net: NetName=24V Pin=T6-1
+Added Pin To Net: NetName=GND Pin=T6-3
+Added Pin To Net: NetName=24V Pin=T7-1
+Added Pin To Net: NetName=GND Pin=T7-3
+Change Net Name : Old Net Name=NetC20_1 New Net Name=NetC21_1
+Change Net Name : Old Net Name=NetC20_2 New Net Name=NetC21_2
+Change Net Name : Old Net Name=NetC20_3 New Net Name=NetC21_3
+Change Net Name : Old Net Name=NetC21_1 New Net Name=NetC23_1
+Change Net Name : Old Net Name=NetC21_2 New Net Name=NetC23_2
+Change Net Name : Old Net Name=NetC21_3 New Net Name=NetC23_3
+Added Pin To Net: NetName=ANA_IN_5 Pin=R38-1
+Added Pin To Net: NetName=ANA_IN_5 Pin=T6-2
+Added Net: Name=ANA_IN_5
+Added Pin To Net: NetName=ANA_IN_6 Pin=R42-1
+Added Pin To Net: NetName=ANA_IN_6 Pin=T7-2
+Added Net: Name=ANA_IN_6
+Added Pin To Net: NetName=ANALOG_5 Pin=C20-2
+Added Pin To Net: NetName=ANALOG_5 Pin=R38-2
+Added Pin To Net: NetName=ANALOG_5 Pin=R40-1
+Added Net: Name=ANALOG_5
+Added Pin To Net: NetName=ANALOG_6 Pin=C22-2
+Added Pin To Net: NetName=ANALOG_6 Pin=R42-2
+Added Pin To Net: NetName=ANALOG_6 Pin=R44-1
+Added Net: Name=ANALOG_6
+Added Member To Class: ClassName=SCH Member=Component C30 Cap_SMD
+Added Member To Class: ClassName=SCH Member=Component C31 JP5
+Added Member To Class: ClassName=SCH Member=Component R56 1k
+Added Member To Class: ClassName=SCH Member=Component R57 Res_SMD
+Added Member To Class: ClassName=SCH Member=Component R58 1k
+Added Member To Class: ClassName=SCH Member=Component R59 1k
+Added Member To Class: ClassName=SCH Member=Component T6 Terminal B 3P
+Added Member To Class: ClassName=SCH Member=Component T7 Terminal B 3P
