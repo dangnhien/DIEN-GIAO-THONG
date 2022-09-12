@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=IN_BUT_7 Pin=U6-24
+Removed Pin From Net: NetName=IN_BUT_1 Pin=U6-27
+Removed Pin From Net: NetName=IN_BUT_2 Pin=U6-28
+Removed Pin From Net: NetName=IN_BUT_3 Pin=U6-29
+Removed Pin From Net: NetName=IN_BUT_4 Pin=U6-30
+Removed Pin From Net: NetName=IN_BUT_5 Pin=U6-31
+Removed Pin From Net: NetName=IN_BUT_6 Pin=U6-32
+Added Pin To Net: NetName=IN_BUT_1 Pin=U6-24
+Added Pin To Net: NetName=IN_BUT_2 Pin=U6-27
+Added Pin To Net: NetName=IN_BUT_3 Pin=U6-28
+Added Pin To Net: NetName=IN_BUT_4 Pin=U6-29
+Added Pin To Net: NetName=IN_BUT_5 Pin=U6-30
+Added Pin To Net: NetName=IN_BUT_6 Pin=U6-31
+Added Pin To Net: NetName=IN_BUT_7 Pin=U6-32
+Added Room: Name=SCH

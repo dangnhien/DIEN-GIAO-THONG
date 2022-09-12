@@ -72,6 +72,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PQSLVOAW
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for X_ray\Design Rule Check - PCB_1.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=PCB_1 12-09-2022 11-45-37 AM.WAS
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0

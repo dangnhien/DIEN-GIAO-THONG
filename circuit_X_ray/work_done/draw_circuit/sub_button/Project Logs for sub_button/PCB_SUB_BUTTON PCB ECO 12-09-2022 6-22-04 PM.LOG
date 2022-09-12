@@ -1,0 +1,3 @@
+Added Component: Designator=psoc1(CY8C4245AXI-483-44P)
+Added Member To Class: ClassName=SCH_SUB_BUTTON Member=Component psoc1 PSOC-CY84245-AXI-483-44P
+Added Room: Name=SCH_SUB_BUTTON
